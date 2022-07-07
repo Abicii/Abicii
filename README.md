@@ -27,11 +27,11 @@
 
 <br>
 
+<h3 align="center">Rig</h3>
 
-<br>
 <p align="center">
 ROG STRIX G15 2020<br>
-<br>
+
 </p>
 <p align="center">
 Processor: 10th Gen Intel Core i7-10870H;<br>
