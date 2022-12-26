@@ -45,7 +45,7 @@ Memory: 16GB DDR4;
 📧 Reach me at: abhijeettt.9876@gmail.com
 <br>
 <br>
-<a href="https://www.linkedin.com/in/abhijeetjain9876" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="ishika kesarwani" height="20" width=auto />
+<a href="https://www.linkedin.com/in/abhijeetjain9876" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Abhijeet Jain" height="20" width=auto />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <h1></h1>
