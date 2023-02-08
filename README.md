@@ -18,7 +18,7 @@
 
 <p align = "center">
 <img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png">
-<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img height="40" width="40" src="https://banner2.cleanpng.com/20180715/uwc/kisspng-python-django-scikit-learn-javascript-programming-support-vector-machine-5b4bda1d9d21d6.4676602015316976936436.jpg">
 <img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png">
 <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
 </p>
